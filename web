@@ -1,0 +1,489 @@
+html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TECH Future</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Animated Background -->
+  <div class="bg-animation">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+
+  <!-- Navigation -->
+  <header>
+    <div class="logo">GAY</div>
+
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Features</a>
+      <a href="#">Gallery</a>
+      <a href="#">Contact</a>
+    </nav>
+
+    <button class="glow-btn">Become Gay</button>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+
+    <div class="hero-content">
+      <h1>
+        Gay<span>BOY</span> WEBSITE
+      </h1>
+
+      <p>
+        Mr Gay Boy
+      </p>
+
+      <div class="hero-buttons">
+        <button class="primary-btn">Get Started</button>
+        <button class="secondary-btn">Explore</button>
+      </div>
+    </div>
+
+    <!-- Floating Neon Card -->
+    <div class="hero-card">
+      <div class="card-glow"></div>
+
+      <h2>idk Dashboard</h2>
+
+      <div class="stats">
+        <div>
+          <h3>69%</h3>
+          <p>Performance</p>
+        </div>
+
+        <div>
+          <h3>69K</h3>
+          <p>Users</p>
+        </div>
+
+        <div>
+          <h3>6.9</h3>
+          <p>Rating</p>
+        </div>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="features">
+
+    <div class="feature-box">
+      <div class="icon">🫦</div>
+      <h3>nigga</h3>
+      <p>idk what to put here.</p>
+    </div>
+
+    <div class="feature-box">
+      <div class="icon">🍆</div>
+      <h3>bxtch</h3>
+      <p>gay boy</p>
+    </div>
+
+    <div class="feature-box">
+      <div class="icon">🍑</div>
+      <h3>wtf bro</h3>
+      <p>chupapi.</p>
+    </div>
+
+  </section>
+
+</body>
+</html>
+
+
+css
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:'Poppins',sans-serif;
+  background:#050816;
+  color:white;
+  overflow-x:hidden;
+  min-height:100vh;
+}
+
+/* Animated Background */
+
+.bg-animation{
+  position:fixed;
+  width:100%;
+  height:100%;
+  z-index:-1;
+  overflow:hidden;
+}
+
+.bg-animation span{
+  position:absolute;
+  display:block;
+  border-radius:50%;
+  background:rgba(0,255,255,0.15);
+  animation:float 10s linear infinite;
+  bottom:-150px;
+  box-shadow:
+    0 0 20px #00ffff,
+    0 0 40px #00ffff,
+    0 0 80px #00ffff;
+}
+
+.bg-animation span:nth-child(1){
+  width:80px;
+  height:80px;
+  left:10%;
+  animation-duration:12s;
+}
+
+.bg-animation span:nth-child(2){
+  width:120px;
+  height:120px;
+  left:30%;
+  animation-duration:18s;
+  background:rgba(255,0,255,0.15);
+}
+
+.bg-animation span:nth-child(3){
+  width:100px;
+  height:100px;
+  left:50%;
+  animation-duration:14s;
+}
+
+.bg-animation span:nth-child(4){
+  width:140px;
+  height:140px;
+  left:70%;
+  animation-duration:20s;
+  background:rgba(0,255,100,0.15);
+}
+
+.bg-animation span:nth-child(5){
+  width:90px;
+  height:90px;
+  left:90%;
+  animation-duration:16s;
+}
+
+@keyframes float{
+  0%{
+    transform:translateY(0) rotate(0deg);
+    opacity:0;
+  }
+
+  30%{
+    opacity:1;
+  }
+
+  100%{
+    transform:translateY(-120vh) rotate(360deg);
+    opacity:0;
+  }
+}
+
+/* Header */
+
+header{
+  width:100%;
+  padding:25px 8%;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  position:fixed;
+  top:0;
+  backdrop-filter:blur(12px);
+  background:rgba(255,255,255,0.03);
+  border-bottom:1px solid rgba(255,255,255,0.08);
+  z-index:999;
+}
+
+.logo{
+  font-family:'Orbitron',sans-serif;
+  font-size:28px;
+  font-weight:800;
+  color:#00ffff;
+  text-shadow:
+    0 0 10px #00ffff,
+    0 0 20px #00ffff;
+}
+
+nav{
+  display:flex;
+  gap:30px;
+}
+
+nav a{
+  color:white;
+  text-decoration:none;
+  transition:0.3s;
+  position:relative;
+}
+
+nav a:hover{
+  color:#00ffff;
+  text-shadow:0 0 10px #00ffff;
+}
+
+.glow-btn{
+  padding:12px 28px;
+  border:none;
+  border-radius:40px;
+  background:linear-gradient(45deg,#00ffff,#ff00ff);
+  color:white;
+  font-weight:600;
+  cursor:pointer;
+  box-shadow:
+    0 0 15px #00ffff,
+    0 0 30px #ff00ff;
+  transition:0.4s;
+}
+
+.glow-btn:hover{
+  transform:scale(1.1);
+}
+
+/* Hero */
+
+.hero{
+  min-height:100vh;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:120px 8%;
+  gap:50px;
+}
+
+.hero-content{
+  max-width:600px;
+}
+
+.hero-content h1{
+  font-size:70px;
+  line-height:1.1;
+  margin-bottom:25px;
+}
+
+.hero-content h1 span{
+  color:#00ffff;
+  text-shadow:
+    0 0 10px #00ffff,
+    0 0 20px #00ffff,
+    0 0 40px #00ffff;
+}
+
+.hero-content p{
+  color:#c9d4ff;
+  margin-bottom:35px;
+  line-height:1.8;
+}
+
+.hero-buttons{
+  display:flex;
+  gap:20px;
+}
+
+.primary-btn,
+.secondary-btn{
+  padding:15px 32px;
+  border:none;
+  border-radius:40px;
+  cursor:pointer;
+  font-weight:600;
+  transition:0.4s;
+}
+
+.primary-btn{
+  background:linear-gradient(45deg,#00ffff,#0066ff);
+  color:white;
+  box-shadow:
+    0 0 20px #00ffff;
+}
+
+.primary-btn:hover{
+  transform:translateY(-5px);
+}
+
+.secondary-btn{
+  background:transparent;
+  color:white;
+  border:2px solid #00ffff;
+}
+
+.secondary-btn:hover{
+  background:#00ffff;
+  color:black;
+}
+
+/* Hero Card */
+
+.hero-card{
+  position:relative;
+  width:380px;
+  padding:35px;
+  border-radius:30px;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(20px);
+  border:1px solid rgba(255,255,255,0.1);
+  box-shadow:
+    0 0 25px rgba(0,255,255,0.3);
+  overflow:hidden;
+  animation:floatCard 4s ease-in-out infinite;
+}
+
+@keyframes floatCard{
+  0%,100%{
+    transform:translateY(0);
+  }
+
+  50%{
+    transform:translateY(-20px);
+  }
+}
+
+.card-glow{
+  position:absolute;
+  width:200px;
+  height:200px;
+  background:#00ffff;
+  filter:blur(120px);
+  top:-50px;
+  right:-50px;
+  opacity:0.5;
+}
+
+.hero-card h2{
+  margin-bottom:30px;
+  font-size:30px;
+}
+
+.stats{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:30px;
+}
+
+.stats h3{
+  font-size:28px;
+  color:#00ffff;
+}
+
+.stats p{
+  color:#ccc;
+  font-size:14px;
+}
+
+.progress-bar{
+  width:100%;
+  height:12px;
+  border-radius:20px;
+  background:rgba(255,255,255,0.1);
+  overflow:hidden;
+}
+
+.progress{
+  width:85%;
+  height:100%;
+  background:linear-gradient(90deg,#00ffff,#ff00ff);
+  box-shadow:
+    0 0 20px #00ffff;
+  animation:loading 3s infinite;
+}
+
+@keyframes loading{
+  0%{
+    width:10%;
+  }
+
+  100%{
+    width:85%;
+  }
+}
+
+/* Features */
+
+.features{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+  padding:80px 8%;
+}
+
+.feature-box{
+  background:rgba(255,255,255,0.05);
+  border:1px solid rgba(255,255,255,0.1);
+  border-radius:25px;
+  padding:40px 30px;
+  backdrop-filter:blur(20px);
+  transition:0.4s;
+  box-shadow:
+    0 0 20px rgba(0,255,255,0.1);
+}
+
+.feature-box:hover{
+  transform:translateY(-10px);
+  box-shadow:
+    0 0 30px rgba(0,255,255,0.5);
+}
+
+.icon{
+  font-size:45px;
+  margin-bottom:20px;
+}
+
+.feature-box h3{
+  margin-bottom:15px;
+  color:#00ffff;
+}
+
+.feature-box p{
+  color:#cfcfcf;
+  line-height:1.7;
+}
+
+/* Responsive */
+
+@media(max-width:950px){
+
+  .hero{
+    flex-direction:column;
+    text-align:center;
+  }
+
+  .hero-buttons{
+    justify-content:center;
+  }
+
+  nav{
+    display:none;
+  }
+
+  .hero-content h1{
+    font-size:50px;
+  }
+
+  .hero-card{
+    width:100%;
+    max-width:400px;
+  }
+}
