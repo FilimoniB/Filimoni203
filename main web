@@ -1,0 +1,1948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NEXORA — A futuristic digital experience.">
+    <title>NIGGA | Future Beyond Niggas Limits</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Animated Background -->
+    <div class="background">
+        <div class="grid"></div>
+
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+
+        <div class="particles">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <a href="#" class="logo">
+            <span class="logo-icon">N</span>
+            <span>NIGGA</span>
+        </a>
+
+        <nav class="nav-links">
+            <a href="#home">Home</a>
+            <a href="#features">Features</a>
+            <a href="#about">About</a>
+            <a href="#stats">Impact</a>
+        </nav>
+
+        <a href="#contact" class="nav-button">
+            Get Started Nigga
+            <span>↗</span>
+        </a>
+    </header>
+
+
+    <!-- Hero Section -->
+    <main>
+
+        <section class="hero" id="home">
+
+            <div class="hero-content">
+
+                <div class="eyebrow">
+                    <span class="status-dot"></span>
+                    THE NEXT DIGITAL FRONTIER
+                </div>
+
+                <h1>
+                    BUILD THE
+                    <span>FUTURE</span>
+                    <br>
+                    OF NIGGAS
+                </h1>
+
+                <p class="hero-description">
+                    A next-generation digital experience engineered for creators,
+                    innovators, and visionaries who refuse to follow the ordinary.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#features" class="primary-button">
+                        Explore System Nigga
+                        <span>→</span>
+                    </a>
+
+                    <a href="#about" class="secondary-button">
+                        Discover More
+                    </a>
+                </div>
+
+                <div class="hero-trust">
+                    <div class="avatar-group">
+                        <div class="avatar">A</div>
+                        <div class="avatar">J</div>
+                        <div class="avatar">K</div>
+                        <div class="avatar">+</div>
+                    </div>
+
+                    <div>
+                        <strong>10K+</strong>
+                        <span>Visionaries connected</span>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <!-- Futuristic Visual -->
+            <div class="hero-visual">
+
+                <div class="energy-ring ring-1"></div>
+                <div class="energy-ring ring-2"></div>
+                <div class="energy-ring ring-3"></div>
+
+                <div class="core">
+                    <div class="core-inner">
+                        <span>N</span>
+                    </div>
+                </div>
+
+                <div class="floating-card card-top">
+                    <span class="mini-icon">⚡</span>
+                    <div>
+                        <small>PERFORMANCE</small>
+                        <strong>+247%</strong>
+                    </div>
+                </div>
+
+                <div class="floating-card card-bottom">
+                    <span class="mini-icon purple">◈</span>
+                    <div>
+                        <small>ACTIVE USERS</small>
+                        <strong>24,891</strong>
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- Marquee -->
+        <div class="marquee">
+            <div class="marquee-content">
+                <span>INNOVATE</span>
+                <i>✦</i>
+                <span>CREATE</span>
+                <i>✦</i>
+                <span>EVOLVE</span>
+                <i>✦</i>
+                <span>DISRUPT</span>
+                <i>✦</i>
+                <span>INNOVATE</span>
+                <i>✦</i>
+                <span>CREATE</span>
+                <i>✦</i>
+                <span>EVOLVE</span>
+                <i>✦</i>
+                <span>DISRUPT</span>
+                <i>✦</i>
+            </div>
+        </div>
+
+
+        <!-- Features -->
+        <section class="section features-section" id="features">
+
+            <div class="section-heading">
+                <div class="section-tag">01 / CAPABILITIES</div>
+
+                <h2>
+                    POWERED BY
+                    <span>IMAGINATION NIGGA.</span>
+                </h2>
+
+                <p>
+                    Everything you need to transform bold ideas into extraordinary
+                    digital experiences.
+                </p>
+            </div>
+
+
+            <div class="features-grid">
+
+                <article class="feature-card featured">
+                    <div class="feature-number">01</div>
+
+                    <div class="feature-icon cyan">
+                        ◉
+                    </div>
+
+                    <h3>Hyper Performance</h3>
+
+                    <p>
+                        Lightning-fast architecture designed to deliver exceptional
+                        performance across every device.
+                    </p>
+
+                    <a href="#">Explore capability →</a>
+
+                    <div class="card-glow"></div>
+                </article>
+
+
+                <article class="feature-card">
+                    <div class="feature-number">02</div>
+
+                    <div class="feature-icon purple">
+                        ◈
+                    </div>
+
+                    <h3>Smart Intelligence Nigga</h3>
+
+                    <p>
+                        Intelligent systems that adapt, learn, and evolve with
+                        the needs of your audience.
+                    </p>
+
+                    <a href="#">Explore capability →</a>
+
+                    <div class="card-glow"></div>
+                </article>
+
+
+                <article class="feature-card">
+                    <div class="feature-number">03</div>
+
+                    <div class="feature-icon pink">
+                        ✦
+                    </div>
+
+                    <h3>Immersive Design</h3>
+
+                    <p>
+                        Visually stunning interfaces crafted to create memorable
+                        experiences and meaningful interactions.
+                    </p>
+
+                    <a href="#">Explore capability →</a>
+
+                    <div class="card-glow"></div>
+                </article>
+
+
+                <article class="feature-card">
+                    <div class="feature-number">04</div>
+
+                    <div class="feature-icon blue">
+                        ⌁
+                    </div>
+
+                    <h3>Infinite Scale</h3>
+
+                    <p>
+                        Built with flexibility at its core so your digital ecosystem
+                        can grow without boundaries.
+                    </p>
+
+                    <a href="#">Explore capability →</a>
+
+                    <div class="card-glow"></div>
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- About -->
+        <section class="section about-section" id="about">
+
+            <div class="about-visual">
+
+                <div class="terminal-window">
+
+                    <div class="terminal-header">
+                        <div class="terminal-dots">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+
+                        <span>nexora.system</span>
+                    </div>
+
+                    <div class="terminal-body">
+                        <p><span class="green">root@nexora</span>:~$ initialize</p>
+
+                        <p class="terminal-response">
+                            Initializing neural interface...
+                        </p>
+
+                        <p class="terminal-response">
+                            Loading experience modules...
+                        </p>
+
+                        <p class="terminal-response">
+                            <span class="green">✓</span>
+                            Core system online
+                        </p>
+
+                        <p class="terminal-response">
+                            <span class="green">✓</span>
+                            Visual engine online
+                        </p>
+
+                        <p class="terminal-response">
+                            <span class="green">✓</span>
+                            Intelligence layer online
+                        </p>
+
+                        <p>
+                            <span class="green">root@nexora</span>:~$
+                            <span class="cursor"></span>
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="about-content">
+
+                <div class="section-tag">02 / THE VISION</div>
+
+                <h2>
+                    TECHNOLOGY
+                    <span>SHOULD FEEL ALIVE.</span>
+                </h2>
+
+                <p>
+                    NIGGA exists at the intersection of technology, creativity,
+                    and human imagination. We believe interfaces shouldn't simply
+                    function — they should inspire.
+                </p>
+
+                <p>
+                    Every interaction is designed with intention. Every animation
+                    has a purpose. Every detail exists to create an experience
+                    that feels one step ahead.
+                </p>
+
+                <div class="about-list">
+
+                    <div>
+                        <span>01</span>
+                        <p>Human-centered experiences</p>
+                    </div>
+
+                    <div>
+                        <span>02</span>
+                        <p>Future-ready technology</p>
+                    </div>
+
+                    <div>
+                        <span>03</span>
+                        <p>Limitless creative systems</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- Statistics -->
+        <section class="stats-section" id="stats">
+
+            <div class="stat">
+                <strong>98<span>%</span></strong>
+                <p>CLIENT SATISFACTION</p>
+            </div>
+
+            <div class="stat">
+                <strong>24<span>K</span></strong>
+                <p>ACTIVE USERS</p>
+            </div>
+
+            <div class="stat">
+                <strong>150<span>+</span></strong>
+                <p>PROJECTS LAUNCHED</p>
+            </div>
+
+            <div class="stat">
+                <strong>42<span>M</span></strong>
+                <p>INTERACTIONS</p>
+            </div>
+
+        </section>
+
+
+        <!-- CTA -->
+        <section class="cta-section" id="contact">
+
+            <div class="cta-glow"></div>
+
+            <div class="section-tag">03 / YOUR MOVE</div>
+
+            <h2>
+                READY TO ENTER
+                <span>THE FUTURE NIGGA?</span>
+            </h2>
+
+            <p>
+                Your next extraordinary idea starts here.
+            </p>
+
+            <a href="#" class="primary-button large">
+                Start Your Journey
+                <span>↗</span>
+            </a>
+
+        </section>
+
+    </main>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <div class="footer-logo">
+            <span class="logo-icon">N</span>
+            NIGGA
+        </div>
+
+        <p>© 2026 NIGGA. DESIGNED BEYOND THE ORDINARY.</p>
+
+        <div class="social-links">
+            <a href="#">X</a>
+            <a href="#">IN</a>
+            <a href="#">GH</a>
+        </div>
+
+    </footer>
+
+</body>
+</html>
+
+
+
+/* =========================================================
+   NEXORA — FUTURISTIC NEON WEBSITE
+   ========================================================= */
+
+:root {
+    --bg: #05050a;
+    --bg-light: #090912;
+
+    --cyan: #00f5ff;
+    --blue: #4169ff;
+    --purple: #8b5cf6;
+    --pink: #ff2bd6;
+
+    --text: #f5f7ff;
+    --muted: #8b90a7;
+
+    --border: rgba(255, 255, 255, 0.09);
+
+    --glass: rgba(255, 255, 255, 0.035);
+
+    --font-display: "Orbitron", sans-serif;
+    --font-body: "Space Grotesk", sans-serif;
+}
+
+
+/* =========================================================
+   RESET
+   ========================================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    overflow-x: hidden;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/* =========================================================
+   BACKGROUND
+   ========================================================= */
+
+.background {
+    position: fixed;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: -10;
+    background:
+        radial-gradient(
+            circle at 50% 20%,
+            rgba(0, 245, 255, 0.07),
+            transparent 30%
+        ),
+        #05050a;
+}
+
+.grid {
+    position: absolute;
+    inset: 0;
+
+    background-image:
+        linear-gradient(
+            rgba(0, 245, 255, 0.035) 1px,
+            transparent 1px
+        ),
+        linear-gradient(
+            90deg,
+            rgba(0, 245, 255, 0.035) 1px,
+            transparent 1px
+        );
+
+    background-size: 70px 70px;
+
+    mask-image: linear-gradient(
+        to bottom,
+        black,
+        transparent 80%
+    );
+
+    transform: perspective(500px) rotateX(55deg) scale(1.6);
+    transform-origin: center bottom;
+}
+
+.orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(100px);
+    opacity: 0.35;
+    animation: float 12s ease-in-out infinite alternate;
+}
+
+.orb-1 {
+    width: 400px;
+    height: 400px;
+    background: var(--cyan);
+    top: 5%;
+    left: -10%;
+}
+
+.orb-2 {
+    width: 350px;
+    height: 350px;
+    background: var(--purple);
+    top: 40%;
+    right: -10%;
+    animation-delay: -4s;
+}
+
+.orb-3 {
+    width: 300px;
+    height: 300px;
+    background: var(--pink);
+    bottom: 0;
+    left: 35%;
+    animation-delay: -8s;
+}
+
+@keyframes float {
+    from {
+        transform: translate(0, 0) scale(1);
+    }
+
+    to {
+        transform: translate(100px, -70px) scale(1.2);
+    }
+}
+
+
+/* =========================================================
+   PARTICLES
+   ========================================================= */
+
+.particles span {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background: var(--cyan);
+    box-shadow: 0 0 15px var(--cyan);
+    animation: particle 8s linear infinite;
+}
+
+.particles span:nth-child(1) {
+    left: 10%;
+    top: 30%;
+}
+
+.particles span:nth-child(2) {
+    left: 25%;
+    top: 70%;
+    animation-delay: 1s;
+}
+
+.particles span:nth-child(3) {
+    left: 40%;
+    top: 20%;
+    animation-delay: 2s;
+}
+
+.particles span:nth-child(4) {
+    left: 55%;
+    top: 60%;
+    animation-delay: 3s;
+}
+
+.particles span:nth-child(5) {
+    left: 70%;
+    top: 25%;
+    animation-delay: 4s;
+}
+
+.particles span:nth-child(6) {
+    left: 85%;
+    top: 75%;
+    animation-delay: 5s;
+}
+
+.particles span:nth-child(7) {
+    left: 15%;
+    top: 85%;
+    animation-delay: 6s;
+}
+
+.particles span:nth-child(8) {
+    left: 90%;
+    top: 40%;
+    animation-delay: 2s;
+}
+
+.particles span:nth-child(9) {
+    left: 65%;
+    top: 90%;
+    animation-delay: 4s;
+}
+
+.particles span:nth-child(10) {
+    left: 48%;
+    top: 45%;
+    animation-delay: 6s;
+}
+
+@keyframes particle {
+    0% {
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+    20% {
+        opacity: 1;
+    }
+
+    80% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-120px);
+        opacity: 0;
+    }
+}
+
+
+/* =========================================================
+   NAVBAR
+   ========================================================= */
+
+.navbar {
+    width: min(1200px, 90%);
+    margin: 25px auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 16px 20px;
+
+    border: 1px solid var(--border);
+    border-radius: 18px;
+
+    background: rgba(7, 7, 14, 0.65);
+    backdrop-filter: blur(20px);
+
+    position: relative;
+    z-index: 20;
+
+    animation: navbarIn 0.8s ease forwards;
+}
+
+@keyframes navbarIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    font-family: var(--font-display);
+    font-size: 15px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.logo-icon {
+    width: 34px;
+    height: 34px;
+
+    display: grid;
+    place-items: center;
+
+    border: 1px solid var(--cyan);
+    color: var(--cyan);
+
+    box-shadow:
+        0 0 15px rgba(0, 245, 255, 0.4),
+        inset 0 0 15px rgba(0, 245, 255, 0.1);
+
+    transform: skew(-10deg);
+}
+
+.nav-links {
+    display: flex;
+    gap: 35px;
+}
+
+.nav-links a {
+    color: var(--muted);
+    font-size: 13px;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    color: var(--cyan);
+    text-shadow: 0 0 10px var(--cyan);
+}
+
+.nav-button {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+
+    padding: 10px 17px;
+
+    border: 1px solid rgba(0, 245, 255, 0.3);
+    border-radius: 9px;
+
+    color: var(--cyan);
+    font-size: 12px;
+    font-weight: 600;
+
+    transition: 0.3s;
+}
+
+.nav-button:hover {
+    background: var(--cyan);
+    color: #000;
+    box-shadow: 0 0 30px rgba(0, 245, 255, 0.4);
+}
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.hero {
+    width: min(1200px, 90%);
+    min-height: 760px;
+
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 0.9fr;
+    align-items: center;
+    gap: 50px;
+}
+
+.hero-content {
+    animation: heroIn 1s ease forwards;
+}
+
+@keyframes heroIn {
+    from {
+        opacity: 0;
+        transform: translateX(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+
+    padding: 8px 13px;
+
+    border: 1px solid rgba(0, 245, 255, 0.15);
+    border-radius: 50px;
+
+    color: var(--cyan);
+    background: rgba(0, 245, 255, 0.03);
+
+    font-size: 10px;
+    letter-spacing: 2px;
+    font-weight: 700;
+
+    margin-bottom: 25px;
+}
+
+.status-dot {
+    width: 7px;
+    height: 7px;
+
+    border-radius: 50%;
+    background: var(--cyan);
+
+    box-shadow: 0 0 12px var(--cyan);
+
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    50% {
+        opacity: 0.3;
+        transform: scale(0.6);
+    }
+}
+
+.hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(42px, 6vw, 76px);
+    line-height: 1.02;
+    letter-spacing: -3px;
+}
+
+.hero h1 span {
+    color: transparent;
+
+    background: linear-gradient(
+        90deg,
+        var(--cyan),
+        var(--purple),
+        var(--pink)
+    );
+
+    background-clip: text;
+    -webkit-background-clip: text;
+
+    filter: drop-shadow(
+        0 0 20px rgba(0, 245, 255, 0.25)
+    );
+}
+
+.hero-description {
+    max-width: 560px;
+
+    margin: 28px 0;
+
+    color: var(--muted);
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.primary-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+
+    padding: 15px 22px;
+
+    background: var(--cyan);
+    color: #020205;
+
+    border-radius: 8px;
+
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+
+    transition: 0.3s;
+
+    box-shadow:
+        0 0 20px rgba(0, 245, 255, 0.25);
+}
+
+.primary-button:hover {
+    transform: translateY(-4px);
+    box-shadow:
+        0 0 40px rgba(0, 245, 255, 0.6);
+}
+
+.primary-button span {
+    font-size: 18px;
+}
+
+.secondary-button {
+    display: inline-flex;
+    align-items: center;
+
+    padding: 15px 22px;
+
+    border: 1px solid var(--border);
+    border-radius: 8px;
+
+    color: white;
+    font-size: 12px;
+
+    transition: 0.3s;
+}
+
+.secondary-button:hover {
+    border-color: var(--purple);
+    color: var(--purple);
+
+    box-shadow:
+        0 0 25px rgba(139, 92, 246, 0.15);
+}
+
+.hero-trust {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    margin-top: 40px;
+}
+
+.avatar-group {
+    display: flex;
+}
+
+.avatar {
+    width: 34px;
+    height: 34px;
+
+    margin-left: -7px;
+
+    display: grid;
+    place-items: center;
+
+    border: 2px solid var(--bg);
+    border-radius: 50%;
+
+    background: linear-gradient(
+        135deg,
+        var(--purple),
+        var(--pink)
+    );
+
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.avatar:first-child {
+    margin-left: 0;
+}
+
+.hero-trust strong {
+    display: block;
+    font-size: 14px;
+}
+
+.hero-trust span {
+    color: var(--muted);
+    font-size: 10px;
+}
+
+
+/* =========================================================
+   HERO VISUAL
+   ========================================================= */
+
+.hero-visual {
+    height: 600px;
+
+    display: grid;
+    place-items: center;
+
+    position: relative;
+
+    animation: visualIn 1.2s ease forwards;
+}
+
+@keyframes visualIn {
+    from {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.energy-ring {
+    position: absolute;
+
+    border-radius: 50%;
+
+    border: 1px solid rgba(0, 245, 255, 0.2);
+
+    box-shadow:
+        0 0 30px rgba(0, 245, 255, 0.08),
+        inset 0 0 30px rgba(139, 92, 246, 0.05);
+
+    animation: rotate 15s linear infinite;
+}
+
+.ring-1 {
+    width: 400px;
+    height: 400px;
+}
+
+.ring-2 {
+    width: 300px;
+    height: 300px;
+    border-color: rgba(139, 92, 246, 0.3);
+    animation-duration: 10s;
+    animation-direction: reverse;
+}
+
+.ring-3 {
+    width: 210px;
+    height: 210px;
+    border-color: rgba(255, 43, 214, 0.3);
+    animation-duration: 7s;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.core {
+    width: 150px;
+    height: 150px;
+
+    display: grid;
+    place-items: center;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(0, 245, 255, 0.3),
+            rgba(139, 92, 246, 0.08) 50%,
+            transparent 70%
+        );
+
+    border: 1px solid rgba(0, 245, 255, 0.5);
+
+    box-shadow:
+        0 0 50px rgba(0, 245, 255, 0.4),
+        0 0 100px rgba(139, 92, 246, 0.2);
+
+    animation: corePulse 3s ease-in-out infinite;
+}
+
+@keyframes corePulse {
+    50% {
+        transform: scale(1.08);
+        box-shadow:
+            0 0 80px rgba(0, 245, 255, 0.7),
+            0 0 130px rgba(139, 92, 246, 0.3);
+    }
+}
+
+.core-inner {
+    width: 90px;
+    height: 90px;
+
+    display: grid;
+    place-items: center;
+
+    border-radius: 50%;
+
+    background: #05050a;
+
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.core-inner span {
+    font-family: var(--font-display);
+    font-size: 45px;
+    font-weight: 900;
+
+    color: var(--cyan);
+
+    text-shadow:
+        0 0 10px var(--cyan),
+        0 0 30px var(--cyan);
+}
+
+.floating-card {
+    position: absolute;
+
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    padding: 13px 17px;
+
+    background: rgba(8, 8, 18, 0.75);
+    backdrop-filter: blur(15px);
+
+    border: 1px solid var(--border);
+    border-radius: 12px;
+
+    box-shadow:
+        0 20px 50px rgba(0, 0, 0, 0.4);
+
+    animation: floating 4s ease-in-out infinite;
+}
+
+.card-top {
+    top: 23%;
+    right: 4%;
+}
+
+.card-bottom {
+    bottom: 20%;
+    left: 4%;
+    animation-delay: -2s;
+}
+
+@keyframes floating {
+    50% {
+        transform: translateY(-12px);
+    }
+}
+
+.mini-icon {
+    width: 35px;
+    height: 35px;
+
+    display: grid;
+    place-items: center;
+
+    border-radius: 8px;
+
+    background: rgba(0, 245, 255, 0.08);
+    color: var(--cyan);
+
+    box-shadow: 0 0 15px rgba(0, 245, 255, 0.1);
+}
+
+.mini-icon.purple {
+    color: var(--purple);
+    background: rgba(139, 92, 246, 0.08);
+}
+
+.floating-card small {
+    display: block;
+
+    color: var(--muted);
+
+    font-size: 8px;
+    letter-spacing: 1px;
+}
+
+.floating-card strong {
+    display: block;
+    margin-top: 3px;
+}
+
+
+/* =========================================================
+   MARQUEE
+   ========================================================= */
+
+.marquee {
+    overflow: hidden;
+
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+
+    padding: 20px 0;
+
+    background: rgba(255, 255, 255, 0.015);
+}
+
+.marquee-content {
+    width: max-content;
+
+    display: flex;
+    align-items: center;
+    gap: 35px;
+
+    animation: marquee 25s linear infinite;
+}
+
+.marquee span {
+    font-family: var(--font-display);
+    font-size: 12px;
+    letter-spacing: 4px;
+    color: var(--muted);
+}
+
+.marquee i {
+    color: var(--cyan);
+}
+
+@keyframes marquee {
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+
+/* =========================================================
+   GENERAL SECTIONS
+   ========================================================= */
+
+.section {
+    width: min(1200px, 90%);
+    margin: auto;
+    padding: 130px 0;
+}
+
+.section-tag {
+    color: var(--cyan);
+    font-size: 10px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.section-heading {
+    max-width: 650px;
+    margin-bottom: 60px;
+}
+
+.section-heading h2,
+.about-content h2,
+.cta-section h2 {
+    font-family: var(--font-display);
+    font-size: clamp(32px, 5vw, 55px);
+    line-height: 1.1;
+}
+
+.section-heading h2 span,
+.about-content h2 span,
+.cta-section h2 span {
+    color: transparent;
+
+    background: linear-gradient(
+        90deg,
+        var(--cyan),
+        var(--purple),
+        var(--pink)
+    );
+
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.section-heading > p {
+    color: var(--muted);
+    margin-top: 20px;
+    line-height: 1.7;
+}
+
+
+/* =========================================================
+   FEATURES
+   ========================================================= */
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+}
+
+.feature-card {
+    position: relative;
+    overflow: hidden;
+
+    min-height: 300px;
+
+    padding: 32px;
+
+    border: 1px solid var(--border);
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(255, 255, 255, 0.045),
+            rgba(255, 255, 255, 0.01)
+        );
+
+    transition:
+        transform 0.4s,
+        border-color 0.4s,
+        box-shadow 0.4s;
+}
+
+.feature-card:hover {
+    transform: translateY(-8px);
+
+    border-color: rgba(0, 245, 255, 0.35);
+
+    box-shadow:
+        0 25px 70px rgba(0, 0, 0, 0.3),
+        0 0 40px rgba(0, 245, 255, 0.05);
+}
+
+.feature-card.featured {
+    border-color: rgba(0, 245, 255, 0.25);
+}
+
+.feature-number {
+    position: absolute;
+    top: 25px;
+    right: 28px;
+
+    color: rgba(255, 255, 255, 0.15);
+
+    font-family: var(--font-display);
+    font-size: 12px;
+}
+
+.feature-icon {
+    width: 55px;
+    height: 55px;
+
+    display: grid;
+    place-items: center;
+
+    margin-bottom: 35px;
+
+    border: 1px solid currentColor;
+    border-radius: 12px;
+
+    font-size: 23px;
+
+    box-shadow: 0 0 25px currentColor;
+}
+
+.feature-icon.cyan {
+    color: var(--cyan);
+}
+
+.feature-icon.purple {
+    color: var(--purple);
+}
+
+.feature-icon.pink {
+    color: var(--pink);
+}
+
+.feature-icon.blue {
+    color: var(--blue);
+}
+
+.feature-card h3 {
+    font-family: var(--font-display);
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+.feature-card p {
+    max-width: 430px;
+
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.7;
+}
+
+.feature-card a {
+    display: inline-block;
+
+    margin-top: 25px;
+
+    color: var(--cyan);
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.card-glow {
+    position: absolute;
+
+    width: 150px;
+    height: 150px;
+
+    right: -80px;
+    bottom: -80px;
+
+    border-radius: 50%;
+
+    background: var(--cyan);
+
+    filter: blur(80px);
+    opacity: 0.08;
+
+    transition: 0.4s;
+}
+
+.feature-card:hover .card-glow {
+    opacity: 0.25;
+}
+
+
+/* =========================================================
+   ABOUT
+   ========================================================= */
+
+.about-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 100px;
+    align-items: center;
+}
+
+.terminal-window {
+    border: 1px solid rgba(0, 245, 255, 0.15);
+    border-radius: 15px;
+    overflow: hidden;
+
+    background: rgba(3, 4, 9, 0.85);
+
+    box-shadow:
+        0 30px 100px rgba(0, 0, 0, 0.5),
+        0 0 50px rgba(0, 245, 255, 0.05);
+
+    transform: perspective(1000px) rotateY(5deg);
+
+    transition: 0.5s;
+}
+
+.terminal-window:hover {
+    transform: perspective(1000px) rotateY(0deg) translateY(-5px);
+}
+
+.terminal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 15px 18px;
+
+    border-bottom: 1px solid var(--border);
+
+    color: var(--muted);
+    font-size: 10px;
+}
+
+.terminal-dots {
+    display: flex;
+    gap: 6px;
+}
+
+.terminal-dots span {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
+.terminal-dots span:nth-child(1) {
+    background: #ff3b6b;
+}
+
+.terminal-dots span:nth-child(2) {
+    background: #ffd166;
+}
+
+.terminal-dots span:nth-child(3) {
+    background: #00e676;
+}
+
+.terminal-body {
+    padding: 30px;
+
+    font-family: monospace;
+    font-size: 12px;
+    line-height: 2.3;
+}
+
+.terminal-response {
+    color: #72798f;
+    padding-left: 10px;
+}
+
+.green {
+    color: #00e676;
+}
+
+.cursor {
+    display: inline-block;
+
+    width: 7px;
+    height: 14px;
+
+    background: var(--cyan);
+
+    vertical-align: middle;
+
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+.about-content > p {
+    color: var(--muted);
+    line-height: 1.8;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+.about-list {
+    margin-top: 35px;
+}
+
+.about-list > div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    padding: 16px 0;
+
+    border-bottom: 1px solid var(--border);
+}
+
+.about-list span {
+    color: var(--cyan);
+    font-family: var(--font-display);
+    font-size: 11px;
+}
+
+.about-list p {
+    font-size: 13px;
+}
+
+
+/* =========================================================
+   STATS
+   ========================================================= */
+
+.stats-section {
+    width: min(1200px, 90%);
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+}
+
+.stat {
+    padding: 55px 20px;
+    text-align: center;
+
+    border-right: 1px solid var(--border);
+}
+
+.stat:last-child {
+    border-right: none;
+}
+
+.stat strong {
+    font-family: var(--font-display);
+    font-size: 38px;
+
+    color: white;
+
+    text-shadow:
+        0 0 20px rgba(0, 245, 255, 0.2);
+}
+
+.stat strong span {
+    color: var(--cyan);
+}
+
+.stat p {
+    margin-top: 10px;
+
+    color: var(--muted);
+
+    font-size: 9px;
+    letter-spacing: 2px;
+}
+
+
+/* =========================================================
+   CTA
+   ========================================================= */
+
+.cta-section {
+    width: min(900px, 90%);
+    margin: 150px auto;
+
+    text-align: center;
+
+    position: relative;
+
+    padding: 100px 30px;
+
+    border: 1px solid var(--border);
+    border-radius: 25px;
+
+    overflow: hidden;
+
+    background:
+        radial-gradient(
+            circle at 50% 50%,
+            rgba(0, 245, 255, 0.07),
+            transparent 55%
+        );
+}
+
+.cta-glow {
+    position: absolute;
+
+    width: 300px;
+    height: 300px;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+
+    background: var(--purple);
+
+    filter: blur(130px);
+    opacity: 0.08;
+}
+
+.cta-section h2 {
+    position: relative;
+}
+
+.cta-section p {
+    position: relative;
+
+    margin: 20px 0 30px;
+
+    color: var(--muted);
+}
+
+.primary-button.large {
+    position: relative;
+
+    padding: 17px 25px;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+footer {
+    width: min(1200px, 90%);
+    margin: auto;
+
+    padding: 35px 0;
+
+    border-top: 1px solid var(--border);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: var(--muted);
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    font-family: var(--font-display);
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 2px;
+
+    color: white;
+}
+
+.footer-logo .logo-icon {
+    width: 28px;
+    height: 28px;
+    font-size: 10px;
+}
+
+footer p {
+    font-size: 9px;
+    letter-spacing: 1px;
+}
+
+.social-links {
+    display: flex;
+    gap: 15px;
+}
+
+.social-links a {
+    width: 30px;
+    height: 30px;
+
+    display: grid;
+    place-items: center;
+
+    border: 1px solid var(--border);
+    border-radius: 6px;
+
+    font-size: 9px;
+
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    color: var(--cyan);
+    border-color: var(--cyan);
+
+    box-shadow:
+        0 0 15px rgba(0, 245, 255, 0.2);
+}
+
+
+/* =========================================================
+   RESPONSIVE DESIGN
+   ========================================================= */
+
+@media (max-width: 900px) {
+
+    .nav-links {
+        display: none;
+    }
+
+    .hero {
+        grid-template-columns: 1fr;
+        padding-top: 80px;
+        text-align: center;
+    }
+
+    .hero-description {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hero-buttons {
+        justify-content: center;
+    }
+
+    .hero-trust {
+        justify-content: center;
+    }
+
+    .hero-visual {
+        height: 500px;
+    }
+
+    .about-section {
+        grid-template-columns: 1fr;
+        gap: 60px;
+    }
+
+    .about-content {
+        text-align: center;
+    }
+
+    .about-list {
+        text-align: left;
+    }
+
+    .stats-section {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .stat:nth-child(2) {
+        border-right: none;
+    }
+
+    .stat:nth-child(-n+2) {
+        border-bottom: 1px solid var(--border);
+    }
+}
+
+
+@media (max-width: 600px) {
+
+    .navbar {
+        margin-top: 15px;
+    }
+
+    .nav-button {
+        display: none;
+    }
+
+    .hero {
+        min-height: auto;
+        padding: 90px 0 60px;
+    }
+
+    .hero h1 {
+        font-size: 39px;
+        letter-spacing: -2px;
+    }
+
+    .hero-description {
+        font-size: 14px;
+    }
+
+    .hero-visual {
+        height: 390px;
+    }
+
+    .ring-1 {
+        width: 280px;
+        height: 280px;
+    }
+
+    .ring-2 {
+        width: 220px;
+        height: 220px;
+    }
+
+    .ring-3 {
+        width: 160px;
+        height: 160px;
+    }
+
+    .core {
+        width: 110px;
+        height: 110px;
+    }
+
+    .core-inner {
+        width: 70px;
+        height: 70px;
+    }
+
+    .core-inner span {
+        font-size: 32px;
+    }
+
+    .card-top {
+        right: 0;
+        top: 15%;
+    }
+
+    .card-bottom {
+        left: 0;
+        bottom: 15%;
+    }
+
+    .features-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .section {
+        padding: 90px 0;
+    }
+
+    .section-heading h2,
+    .about-content h2,
+    .cta-section h2 {
+        font-size: 32px;
+    }
+
+    .terminal-body {
+        padding: 20px;
+        font-size: 9px;
+    }
+
+    .stats-section {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .stat {
+        padding: 35px 10px;
+    }
+
+    .stat strong {
+        font-size: 28px;
+    }
+
+    footer {
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+    }
+}
+
+
+/* =========================================================
+   REDUCED MOTION ACCESSIBILITY
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+    }
+}
